@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="v6gjf5wr">
+  <resources>
+    <component id="ecs80" name="MainMenu.xml" path="/Panels/" exported="true"/>
+    <image id="8f7u4" name="Home Bg.png" path="/Sprites/"/>
+    <image id="8f7u5" name="Options.png" path="/Sprites/"/>
+    <image id="8f7u6" name="Level Select.png" path="/Sprites/"/>
+    <image id="8f7u7" name="Play.png" path="/Sprites/"/>
+    <component id="8f7u8" name="Play Button.xml" path="/Components/"/>
+    <image id="8f7u9" name="Game Title.png" path="/Sprites/"/>
+    <component id="8f7ua" name="Options Button.xml" path="/Components/"/>
+    <component id="8f7ub" name="Level Select Button.xml" path="/Components/"/>
+    <component id="kl4sd" name="MainMenuPopup.xml" path="/Panels/"/>
+    <image id="kl4se" name="Setting BG.png" path="/Sprites/"/>
+    <image id="kl4sf" name="Close img.png" path="/Sprites/"/>
+    <component id="kl4sg" name="SettingsPopUp.xml" path="/Panels/"/>
+    <image id="kl4sh" name="Slider Border.png" path="/Sprites/"/>
+    <image id="kl4sj" name="Knob.png" path="/Sprites/"/>
+    <image id="kl4so" name="Slider Fill.png" path="/Sprites/"/>
+    <image id="kl4sp" name="Slider Static.png" path="/Sprites/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

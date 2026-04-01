@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="510,477">
+  <displayList>
+    <component id="n2_8f7u" name="PlayButton" src="8f7u8" fileName="Components/Play Button.xml" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n3_8f7u" name="LevelSelectButton" src="8f7ub" fileName="Components/Level Select Button.xml" xy="0,182">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n4_8f7u" name="OptionsButton" src="8f7ua" fileName="Components/Options Button.xml" xy="0,357">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>
