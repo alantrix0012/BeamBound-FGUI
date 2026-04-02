@@ -11,13 +11,23 @@
     <component id="8f7ua" name="Options Button.xml" path="/Components/"/>
     <component id="8f7ub" name="Level Select Button.xml" path="/Components/"/>
     <component id="kl4sd" name="MainMenuPopup.xml" path="/Panels/"/>
-    <image id="kl4se" name="Setting BG.png" path="/Sprites/"/>
     <image id="kl4sf" name="Close img.png" path="/Sprites/"/>
-    <component id="kl4sg" name="SettingsPopUp.xml" path="/Panels/"/>
     <image id="kl4sh" name="Slider Border.png" path="/Sprites/"/>
     <image id="kl4sj" name="Knob.png" path="/Sprites/"/>
-    <image id="kl4so" name="Slider Fill.png" path="/Sprites/"/>
     <image id="kl4sp" name="Slider Static.png" path="/Sprites/"/>
+    <image id="kl4ss" name="Slider Fill.png" path="/Sprites/"/>
+    <component id="kl4st" name="Slider1_grip.xml" path="/Components/"/>
+    <component id="kl4su" name="Volume Slider.xml" path="/Components/"/>
+    <image id="kl4sy" name="SFXVol.png" path="/Sprites/"/>
+    <image id="kl4sz" name="MainVol.png" path="/Sprites/"/>
+    <image id="kl4s10" name="MusicVol.png" path="/Sprites/"/>
+    <image id="kl4s12" name="Settings BG.png" path="/Sprites/"/>
+    <component id="kl4s13" name="SettingsPopUp.xml" path="/Panels/"/>
+    <component id="kl4s14" name="Close Button.xml" path="/Components/"/>
+    <image id="kl4s15" name="MainTxt.png" path="/Sprites/"/>
+    <image id="kl4s16" name="BGMTxt.png" path="/Sprites/"/>
+    <image id="kl4s17" name="SFXTxt.png" path="/Sprites/"/>
+    <image id="kl4s18" name="Settings TXT.png" path="/Sprites/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="898,1000">
+<component size="875,1000">
   <displayList>
-    <image id="n7_kl4s" name="BG" src="kl4se" fileName="Sprites/Setting BG.png" xy="0,7" pivot="0.5,0.5" size="868,992" aspect="true">
-      <relation target="" sidePair="height-height,center-center,middle-middle"/>
+    <image id="n10_kl4s" name="BG" src="kl4s12" fileName="Sprites/Settings BG.png" xy="0,0" pivot="0.5,0.5" size="875,1000" aspect="true"/>
+    <image id="n12_kl4s" name="Settings Text" src="kl4s18" fileName="Sprites/Settings TXT.png" xy="271,35" pivot="0.5,0.5" size="333,64" aspect="true">
+      <relation target="" sidePair="center-center,top-top"/>
     </image>
-    <image id="n8_kl4s" name="n8" src="kl4sf" fileName="Sprites/Close img.png" xy="773,0" pivot="0.5,0.5" size="125,125" aspect="true"/>
+    <image id="n13_kl4s" name="Main icon" src="kl4sz" fileName="Sprites/MainVol.png" xy="110,288" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n14_kl4s" name="Main Text" src="kl4s15" fileName="Sprites/MainTxt.png" xy="240,211" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n15_kl4s" name="MainVolumeSlider" src="kl4su" fileName="Components/Volume Slider.xml" xy="240,300" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Slider value="50" max="100"/>
+    </component>
+    <image id="n16_kl4s" name="BGM Text" src="kl4s16" fileName="Sprites/BGMTxt.png" xy="240,450" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n17_kl4s" name="BGMVolumeSlider" src="kl4su" fileName="Components/Volume Slider.xml" xy="240,533" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Slider value="50" max="100"/>
+    </component>
+    <image id="n18_kl4s" name="SFX Text" src="kl4s17" fileName="Sprites/SFXTxt.png" xy="240,673" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n19_kl4s" name="SFXVolumeSlider" src="kl4su" fileName="Components/Volume Slider.xml" xy="240,756" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Slider value="50" max="100"/>
+    </component>
+    <image id="n20_kl4s" name="BGM icon" src="kl4s10" fileName="Sprites/MusicVol.png" xy="110,522" pivot="0.5,0.5" size="77,77" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n21_kl4s" name="SFX icon" src="kl4sy" fileName="Sprites/SFXVol.png" xy="110,744" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
   </displayList>
 </component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,58" extention="Slider">
+  <displayList>
+    <graph id="n4_kl4s" name="n4" xy="17,12" pivot="0.5,0.5" size="466,34" type="rect" fillColor="#ff5180ff"/>
+    <image id="n3_kl4s" name="Static" src="kl4sp" fileName="Sprites/Slider Static.png" xy="5,1" pivot="0.5,0.5" size="50,56" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n1_kl4s" name="bar" src="kl4ss" fileName="Sprites/Slider Fill.png" xy="54,1" size="438,55">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n0_kl4s" name="Border" src="kl4sh" fileName="Sprites/Slider Border.png" xy="0,0" size="500,58" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n2_kl4s" name="grip" src="kl4st" fileName="Components/Slider1_grip.xml" xy="462,-1" size="37,61" aspect="true">
+      <relation target="n1_kl4s" sidePair="right-right"/>
+    </component>
+  </displayList>
+  <Slider/>
+</component>

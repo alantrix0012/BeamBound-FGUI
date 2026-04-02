@@ -4,12 +4,12 @@
     <image id="n1_8f7u" name="BG" src="8f7u4" fileName="Sprites/Home Bg.png" xy="-382,0" size="1781,1920" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
-    <component id="n2_8f7u" name="MainMenuPopUp" src="kl4sd" fileName="Panels/MainMenuPopup.xml" xy="285,943" pivot="0.5,0.5"/>
-    <component id="n7_kl4s" name="SettingsPopUp" src="kl4sg" fileName="Panels/SettingsPopUp.xml" xy="91,712" pivot="0.5,0.5">
-      <relation target="" sidePair="height-height,center-center,middle-middle"/>
-    </component>
     <image id="n5_8f7u" name="Title" src="8f7u9" fileName="Sprites/Game Title.png" xy="219,115" size="642,320" aspect="true">
       <relation target="" sidePair="center-center,top-top"/>
     </image>
+    <component id="n2_8f7u" name="MainMenuPopUp" src="kl4sd" fileName="Panels/MainMenuPopup.xml" xy="285,943" pivot="0.5,0.5"/>
+    <component id="n10_kl4s" name="SettingsPopUp" src="kl4s13" fileName="Panels/SettingsPopUp.xml" xy="102,700" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
   </displayList>
 </component>
