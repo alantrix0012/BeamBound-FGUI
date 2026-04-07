@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <component id="n0_kl4s" name="HUD" src="kl4s1a" fileName="Panels/HUD.xml" xy="0,0" pivot="0.5,0.5">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <component id="n1_wl4w" name="PausePopUp" src="wl4w1d" fileName="Panels/PausePopUp.xml" xy="0,0" pivot="0.5,0.5" size="1080,1920">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

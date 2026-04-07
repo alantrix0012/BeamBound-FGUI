@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="v6gjf5wr">
   <resources>
-    <component id="ecs80" name="MainMenu.xml" path="/Panels/" exported="true"/>
+    <component id="ecs80" name="HomeScreen.xml" path="/Panels/" exported="true"/>
     <image id="8f7u4" name="Home Bg.png" path="/Sprites/"/>
     <image id="8f7u5" name="Options.png" path="/Sprites/"/>
     <image id="8f7u6" name="Level Select.png" path="/Sprites/"/>
@@ -10,7 +10,7 @@
     <image id="8f7u9" name="Game Title.png" path="/Sprites/"/>
     <component id="8f7ua" name="Options Button.xml" path="/Components/"/>
     <component id="8f7ub" name="Level Select Button.xml" path="/Components/"/>
-    <component id="kl4sd" name="MainMenuPopup.xml" path="/Panels/"/>
+    <component id="kl4sd" name="MainMenuPopUp.xml" path="/Panels/"/>
     <image id="kl4sf" name="Close img.png" path="/Sprites/"/>
     <image id="kl4sh" name="Slider Border.png" path="/Sprites/"/>
     <image id="kl4sj" name="Knob.png" path="/Sprites/"/>
@@ -22,12 +22,24 @@
     <image id="kl4sz" name="MainVol.png" path="/Sprites/"/>
     <image id="kl4s10" name="MusicVol.png" path="/Sprites/"/>
     <image id="kl4s12" name="Settings BG.png" path="/Sprites/"/>
-    <component id="kl4s13" name="SettingsPopUp.xml" path="/Panels/"/>
+    <component id="kl4s13" name="OptionsPopUp.xml" path="/Panels/"/>
     <component id="kl4s14" name="Close Button.xml" path="/Components/"/>
     <image id="kl4s15" name="MainTxt.png" path="/Sprites/"/>
     <image id="kl4s16" name="BGMTxt.png" path="/Sprites/"/>
     <image id="kl4s17" name="SFXTxt.png" path="/Sprites/"/>
     <image id="kl4s18" name="Settings TXT.png" path="/Sprites/"/>
+    <component id="kl4s19" name="GameScreen.xml" path="/Panels/" exported="true"/>
+    <component id="kl4s1a" name="HUD.xml" path="/Panels/"/>
+    <image id="kl4s1b" name="Pause.png" path="/Sprites/"/>
+    <component id="wl4w1c" name="Pause Button.xml" path="/Components/"/>
+    <component id="wl4w1d" name="PausePopUp.xml" path="/Panels/"/>
+    <image id="kn971e" name="Paused.png" path="/Sprites/Pause PopUp/"/>
+    <image id="kn971f" name="MainMenu.png" path="/Sprites/Pause PopUp/"/>
+    <image id="kn971g" name="Restart.png" path="/Sprites/Pause PopUp/"/>
+    <image id="kn971h" name="Resume.png" path="/Sprites/Pause PopUp/"/>
+    <component id="kn971j" name="Resume Button.xml" path="/Components/PausePopUp/"/>
+    <component id="kn971k" name="Restart Button.xml" path="/Components/PausePopUp/"/>
+    <component id="kn971l" name="Main Menu Button.xml" path="/Components/PausePopUp/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="75,75" pivot="0.5,0.5" extention="Button">
+<component size="500,121" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_kl4s" name="n0" src="kl4sf" fileName="Sprites/Close img.png" xy="0,0">
+    <image id="n0_kn97" name="n0" src="kn971h" fileName="Sprites/Pause PopUp/Resume.png" xy="0,0" size="500,121" aspect="true">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>

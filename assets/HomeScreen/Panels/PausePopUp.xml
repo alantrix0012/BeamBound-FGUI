@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n1_efqr" name="BG Tint" xy="0,0" pivot="0.5,0.5" size="1080,1920" type="rect" fillColor="#4c000000"/>
+    <image id="n2_kn97" name="n2" src="kn971e" fileName="Sprites/Pause PopUp/Paused.png" xy="235,402" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n3_kn97" name="ResumeButton" src="kn971j" fileName="Components/PausePopUp/Resume Button.xml" xy="290,699">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n4_kn97" name="RestartButton" src="kn971k" fileName="Components/PausePopUp/Restart Button.xml" xy="290,899">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n5_kn97" name="MainMenuButton" src="kn971l" fileName="Components/PausePopUp/Main Menu Button.xml" xy="290,1099">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>
