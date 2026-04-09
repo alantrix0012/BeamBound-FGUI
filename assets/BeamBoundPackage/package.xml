@@ -44,7 +44,17 @@
     <image id="kn971n" name="GameWon BG.png" path="/Sprites/Game Over/"/>
     <image id="kn971o" name="GameLost BG.png" path="/Sprites/Game Over/"/>
     <component id="kn971p" name="GameLostPopUp.xml" path="/Panels/Game Over/"/>
-    <component id="kn971q" name="GameWonPopUp.xml" path="/Panels/Game Over/"/>
+    <image id="kn971r" name="Main Menu.png" path="/Sprites/Game Over/"/>
+    <image id="kn971s" name="Play Next.png" path="/Sprites/Game Over/"/>
+    <image id="kn971t" name="Retry.png" path="/Sprites/Game Over/"/>
+    <component id="kn971u" name="Retry Button.xml" path="/Components/Game Over/"/>
+    <component id="kn971v" name="Play Next Button.xml" path="/Components/Game Over/"/>
+    <component id="kn971w" name="Main Menu Button.xml" path="/Components/Game Over/"/>
+    <image id="kn971y" name="Star Glow.png" path="/Sprites/Game Over/"/>
+    <component id="kn971z" name="GameWonPopUp.xml" path="/Panels/Game Over/"/>
+    <image id="kn9720" name="Star Normal.png" path="/Sprites/Game Over/"/>
+    <image id="kn9721" name="GameOver.png" path="/Sprites/Game Over/"/>
+    <image id="kn9722" name="GameLost.png" path="/Sprites/Game Over/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

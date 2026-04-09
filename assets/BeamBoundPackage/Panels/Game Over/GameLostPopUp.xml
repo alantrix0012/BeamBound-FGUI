@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" overflow="hidden">
+  <displayList>
+    <image id="n0_kn97" name="n0" src="kn971o" fileName="Sprites/Game Over/GameLost BG.png" xy="-420,0" pivot="0.5,0.5" size="1920,1920" aspect="true"/>
+    <component id="n1_kn97" name="RetryButton" src="kn971u" fileName="Components/Game Over/Retry Button.xml" xy="225,1100">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n2_kn97" name="MainMenuButton" src="kn971w" fileName="Components/Game Over/Main Menu Button.xml" xy="225,1300">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n3_kn97" name="n3" src="kn9722" fileName="Sprites/Game Over/GameLost.png" xy="95,400" pivot="0.5,0.5" size="889,145" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n4_kn97" name="n4" src="kn9720" fileName="Sprites/Game Over/Star Normal.png" xy="415,900" pivot="0,1" anchor="true" size="250,250" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n5_kn97" name="n5" src="kn9720" fileName="Sprites/Game Over/Star Normal.png" xy="175,900" pivot="0,1" anchor="true" size="200,200" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n6_kn97" name="n6" src="kn9720" fileName="Sprites/Game Over/Star Normal.png" xy="700,900" pivot="0,1" anchor="true" size="200,200" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+</component>

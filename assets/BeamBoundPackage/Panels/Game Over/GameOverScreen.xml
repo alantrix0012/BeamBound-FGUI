@@ -4,8 +4,6 @@
     <component id="n0_kn97" name="GameLostPopUp" src="kn971p" fileName="Panels/Game Over/GameLostPopUp.xml" xy="0,0" pivot="0.5,0.5">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
-    <component id="n1_kn97" name="GameWonPopUp" src="kn971q" fileName="Panels/Game Over/GameWonPopUp.xml" xy="0,0" pivot="0.5,0.5">
-      <relation target="" sidePair="center-center,middle-middle"/>
-    </component>
+    <component id="n10_kn97" name="GameWonPopUp" src="kn971z" fileName="Panels/Game Over/GameWonPopUp.xml" xy="0,0" pivot="0.5,0.5"/>
   </displayList>
 </component>
