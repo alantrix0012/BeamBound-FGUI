@@ -21,7 +21,7 @@
     <image id="kl4sy" name="SFXVol.png" path="/Sprites/Home/"/>
     <image id="kl4sz" name="MainVol.png" path="/Sprites/Home/"/>
     <image id="kl4s10" name="MusicVol.png" path="/Sprites/Home/"/>
-    <image id="kl4s12" name="Settings BG.png" path="/Sprites/Home/"/>
+    <image id="kl4s12" name="BG.png" path="/Sprites/Home/"/>
     <component id="kl4s13" name="OptionsPopUp.xml" path="/Panels/Home/"/>
     <component id="kl4s14" name="Close Button.xml" path="/Components/"/>
     <image id="kl4s15" name="MainTxt.png" path="/Sprites/Home/"/>
@@ -55,6 +55,15 @@
     <image id="kn9720" name="Star Normal.png" path="/Sprites/Game Over/"/>
     <image id="kn9721" name="GameOver.png" path="/Sprites/Game Over/"/>
     <image id="kn9722" name="GameLost.png" path="/Sprites/Game Over/"/>
+    <image id="v85223" name="Unlocked Level.png" path="/Sprites/Home/"/>
+    <image id="v85224" name="Locked Level.png" path="/Sprites/Home/"/>
+    <component id="v85225" name="LevelSelectPopUp.xml" path="/Panels/Home/"/>
+    <image id="v85226" name="Filled Star.png" path="/Sprites/Home/"/>
+    <image id="v85227" name="Unfilled Star.png" path="/Sprites/Home/"/>
+    <component id="v85228" name="Completed Level Item.xml" path="/Components/" exported="true"/>
+    <component id="v85229" name="CompleteLevelButton.xml" path="/Components/"/>
+    <component id="v8522a" name="Incomplete Level Item.xml" path="/Components/" exported="true"/>
+    <image id="v8522b" name="Levels.png" path="/Sprites/Home/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

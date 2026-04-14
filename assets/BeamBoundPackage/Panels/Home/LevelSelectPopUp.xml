@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="966,1088">
+  <displayList>
+    <image id="n11_v852" name="n11" src="kl4s12" fileName="Sprites/Home/BG.png" xy="0,0" pivot="0.5,0.5" size="953,1088" aspect="true"/>
+    <component id="n12_v852" name="CloseButton" src="kl4s14" fileName="Components/Close Button.xml" xy="841,6" size="125,125" aspect="true">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <list id="n13_v852" name="n13" xy="114,180" pivot="0.5,0.5" size="738,728" layout="flow_hz" overflow="scroll" lineItemCount="5" defaultItem="ui://v6gjf5wrv85228">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n24_v852" name="n24" src="v8522b" fileName="Sprites/Home/Levels.png" xy="296,28" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+</component>

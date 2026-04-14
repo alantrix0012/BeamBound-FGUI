@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,180">
+  <displayList>
+    <component id="n14_v852" name="Button" src="v85229" fileName="Components/CompleteLevelButton.xml" xy="0,23">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <loader id="n22_v852" name="Star1" xy="14,16" pivot="0.5,0.5" size="40,40" aspect="true" rotation="-20" url="ui://v6gjf5wrv85226" fill="scaleFree">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n21_v852" name="Star2" xy="54,4" pivot="0.5,0.5" size="40,40" url="ui://v6gjf5wrv85227" fill="scaleFree">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n23_v852" name="Star3" xy="94,16" pivot="0.5,0.5" size="40,40" aspect="true" rotation="20" url="ui://v6gjf5wrv85227" fill="scaleFree">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+</component>
