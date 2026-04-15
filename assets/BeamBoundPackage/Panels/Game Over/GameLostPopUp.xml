@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1080,1920" overflow="hidden">
   <displayList>
-    <image id="n0_kn97" name="n0" src="kn971o" fileName="Sprites/Game Over/GameLost BG.png" xy="-420,0" pivot="0.5,0.5" size="1920,1920" aspect="true"/>
+    <image id="n0_kn97" name="n0" src="kn971o" fileName="Sprites/Game Over/GameLost BG.png" xy="-420,0" pivot="0.5,0.5" size="1920,1920" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
     <component id="n1_kn97" name="RetryButton" src="kn971u" fileName="Components/Game Over/Retry Button.xml" xy="225,1100">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
