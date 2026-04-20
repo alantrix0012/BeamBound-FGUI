@@ -20,6 +20,6 @@
   "tipsRes": "",
   "buttonClickSound": "",
   "pivot": "center",
-  "listClearOnPublish": false,
+  "listClearOnPublish": true,
   "fileName": "Common"
 }

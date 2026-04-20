@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="150,180" pivot="0.5,0.5" extention="Button">
   <displayList>
-    <image id="n24_v852" name="n24" src="v85224" fileName="Sprites/Home/Locked Level.png" xy="0,23" pivot="0.5,0.5" size="150,150" aspect="true"/>
+    <image id="n24_v852" name="BG" src="v85224" fileName="Sprites/Home/Locked Level.png" xy="0,23" pivot="0.5,0.5" size="150,150" aspect="true"/>
     <text id="n25_v852" name="Count" xy="47,57" pivot="0.5,0.5" size="55,55" fontSize="40" color="#ffcc33" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#333333" shadowColor="#333333" shadowOffset="0,2" text="49"/>
   </displayList>
   <Button downEffect="scale" downEffectValue="0.9"/>

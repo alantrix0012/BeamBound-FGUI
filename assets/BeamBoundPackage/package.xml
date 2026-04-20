@@ -50,16 +50,16 @@
     <component id="kn971u" name="Retry Button.xml" path="/Components/Game Over/"/>
     <component id="kn971v" name="Play Next Button.xml" path="/Components/Game Over/"/>
     <component id="kn971w" name="Main Menu Button.xml" path="/Components/Game Over/"/>
-    <image id="kn971y" name="Star Glow.png" path="/Sprites/Game Over/"/>
+    <image id="kn971y" name="Star Glow.png" path="/Sprites/Game Over/" exported="true"/>
     <component id="kn971z" name="GameWonPopUp.xml" path="/Panels/Game Over/"/>
-    <image id="kn9720" name="Star Normal.png" path="/Sprites/Game Over/"/>
+    <image id="kn9720" name="Star Normal.png" path="/Sprites/Game Over/" exported="true"/>
     <image id="kn9721" name="GameOver.png" path="/Sprites/Game Over/"/>
     <image id="kn9722" name="GameLost.png" path="/Sprites/Game Over/"/>
     <image id="v85223" name="Unlocked Level.png" path="/Sprites/Home/"/>
     <image id="v85224" name="Locked Level.png" path="/Sprites/Home/"/>
     <component id="v85225" name="LevelSelectPopUp.xml" path="/Panels/Home/"/>
-    <image id="v85226" name="Filled Star.png" path="/Sprites/Home/"/>
-    <image id="v85227" name="Unfilled Star.png" path="/Sprites/Home/"/>
+    <image id="v85226" name="Filled Star.png" path="/Sprites/Home/" exported="true"/>
+    <image id="v85227" name="Unfilled Star.png" path="/Sprites/Home/" exported="true"/>
     <component id="v85228" name="Completed Level Item.xml" path="/Components/" exported="true"/>
     <component id="v85229" name="CompleteLevelButton.xml" path="/Components/"/>
     <component id="v8522a" name="Incomplete Level Item.xml" path="/Components/" exported="true"/>

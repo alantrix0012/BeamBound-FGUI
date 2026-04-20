@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1080,1920" overflow="hidden">
   <displayList>
-    <image id="n1_8f7u" name="BG" src="8f7u4" fileName="Sprites/Home/Home Bg.png" xy="-382,0" size="1781,1920" aspect="true">
+    <image id="n1_8f7u" name="BG" src="8f7u4" fileName="Sprites/Home/Home Bg.png" xy="-350,0" size="1781,1920" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
-    <image id="n5_8f7u" name="Title" src="8f7u9" fileName="Sprites/Home/Game Title.png" xy="219,115" size="642,320" aspect="true">
+    <image id="n5_8f7u" name="Title" src="8f7u9" fileName="Sprites/Home/Game Title.png" xy="219,114" size="642,320" aspect="true">
       <relation target="" sidePair="center-center,top-top"/>
     </image>
     <component id="n2_8f7u" name="MainMenuPopUp" src="kl4sd" fileName="Panels/Home/MainMenuPopUp.xml" xy="285,943" pivot="0.5,0.5">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
-    <component id="n10_kl4s" name="OptionsPopUp" src="kl4s13" fileName="Panels/Home/OptionsPopUp.xml" xy="102,700" pivot="0.5,0.5">
+    <component id="n10_kl4s" name="OptionsPopUp" src="kl4s13" fileName="Panels/Home/OptionsPopUp.xml" xy="102,700" pivot="0.5,0.5" size="875,1000" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
-    <component id="n11_v852" name="LevelSelectPopUp" src="v85225" fileName="Panels/Home/LevelSelectPopUp.xml" xy="63,600" pivot="0.5,0.5">
+    <component id="n11_v852" name="LevelSelectPopUp" src="v85225" fileName="Panels/Home/LevelSelectPopUp.xml" xy="96,622" pivot="0.5,0.5" size="888,1000" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
   </displayList>

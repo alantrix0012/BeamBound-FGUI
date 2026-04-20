@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="150,150" pivot="0.5,0.5" extention="Button">
   <displayList>
-    <image id="n14_v852" name="n14" src="v85223" fileName="Sprites/Home/Unlocked Level.png" xy="0,0" pivot="0.5,0.5" size="150,150" aspect="true">
-      <relation target="" sidePair="center-center,middle-middle"/>
+    <image id="n14_v852" name="BG" src="v85223" fileName="Sprites/Home/Unlocked Level.png" xy="0,0" pivot="0.5,0.5" size="150,150" aspect="true">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
     </image>
-    <text id="n24_v852" name="Count" xy="47,33" pivot="0.5,0.5" size="55,55" fontSize="40" color="#ffcc33" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#333333" shadowColor="#333333" shadowOffset="0,2" text="45&#xA;"/>
+    <text id="n24_v852" name="Count" xy="48,33" pivot="0.5,0.5" size="52,54" fontSize="40" color="#ffcc33" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#333333" shadowColor="#333333" shadowOffset="0,2" text="45">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </text>
   </displayList>
   <Button downEffect="dark" downEffectValue="0.8"/>
 </component>
