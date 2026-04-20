@@ -13,7 +13,7 @@
     <component id="n10_kl4s" name="OptionsPopUp" src="kl4s13" fileName="Panels/Home/OptionsPopUp.xml" xy="102,700" pivot="0.5,0.5" size="875,1000" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
-    <component id="n11_v852" name="LevelSelectPopUp" src="v85225" fileName="Panels/Home/LevelSelectPopUp.xml" xy="96,622" pivot="0.5,0.5" size="888,1000" aspect="true">
+    <component id="n11_v852" name="LevelSelectPopUp" src="v85225" fileName="Panels/Home/LevelSelectPopUp.xml" xy="96,632" pivot="0.5,0.5" size="888,1000" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
   </displayList>

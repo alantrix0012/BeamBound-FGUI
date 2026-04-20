@@ -16,17 +16,27 @@
     <component id="n6_kn97" name="MainMenuButton" src="kn971w" fileName="Components/Game Over/Main Menu Button.xml" xy="225,1400">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
-    <loader id="n7_kn97" name="1Star" xy="175,800" pivot="0,1" anchor="true" size="200,200" aspect="true" url="ui://v6gjf5wrkn971y" fill="scaleFree">
+    <loader id="n7_kn97" name="1Star" xy="275,700" pivot="0.5,0.5" anchor="true" size="200,200" aspect="true" url="ui://v6gjf5wrkn971y" fill="scaleFree">
       <relation target="" sidePair="center-center,middle-middle"/>
     </loader>
-    <loader id="n8_kn97" name="2Star" xy="415,800" pivot="0,1" anchor="true" size="250,250" aspect="true" url="ui://v6gjf5wrkn971y" fill="scaleFree">
+    <loader id="n8_kn97" name="2Star" xy="540,675" pivot="0.5,0.5" anchor="true" size="250,250" aspect="true" url="ui://v6gjf5wrkn971y" fill="scaleFree">
       <relation target="" sidePair="center-center,middle-middle"/>
     </loader>
-    <loader id="n9_kn97" name="3Star" xy="700,800" pivot="0,1" anchor="true" size="200,200" aspect="true" url="ui://v6gjf5wrkn9720" fill="scaleFree">
+    <loader id="n9_kn97" name="3Star" xy="800,700" pivot="0.5,0.5" anchor="true" size="200,200" aspect="true" url="ui://v6gjf5wrkn9720" fill="scaleFree">
       <relation target="" sidePair="center-center,middle-middle"/>
     </loader>
     <image id="n12_kn97" name="n12" src="kn9721" fileName="Sprites/Game Over/GameOver.png" xy="90,285" pivot="0.5,0.5" size="900,146" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
   </displayList>
+  <transition name="BreathStar1">
+    <item time="0" type="Scale" target="n7_kn97" tween="true" startValue="0.95,0.95" endValue="1.05,1.05" duration="24" ease="Sine.InOut" repeat="-1" yoyo="true"/>
+    <item time="24" type="Scale" target="n7_kn97" value="1.05,1.05"/>
+  </transition>
+  <transition name="BreathStar2">
+    <item time="0" type="Scale" target="n8_kn97" tween="true" startValue="0.95,0.95" endValue="1.05,1.05" duration="24" ease="Sine.InOut" repeat="-1" yoyo="true"/>
+  </transition>
+  <transition name="BreathStar3">
+    <item time="0" type="Scale" target="n9_kn97" tween="true" startValue="0.95,0.95" endValue="1.05,1.05" duration="24" ease="Sine.InOut" repeat="-1" yoyo="true"/>
+  </transition>
 </component>
